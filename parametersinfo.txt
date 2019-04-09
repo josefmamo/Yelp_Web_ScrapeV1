@@ -1,0 +1,8 @@
+term (String)
+location (string)
+latitutude (decimal)
+longitude (decimal)
+radius (int)
+categories (string)
+sort_by (string) - Suggestion to the search algorithm that the results be sorted by one of the these modes: best_match, rating, review_count or distance. The default is best_match.
+price (string) -
